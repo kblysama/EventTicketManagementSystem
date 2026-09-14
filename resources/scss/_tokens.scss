@@ -1,0 +1,26 @@
+$ice: #c9fbff;
+$mint: #c2fcf7;
+$teal: #85bdbf;
+$slate: #57737a;
+$ink: #040f0f;
+$page: #f5f6f6;
+$white: #ffffff;
+$line: #eceeee;
+
+$font: 'Manrope', sans-serif;
+$radius: 24px;
+$radius-sm: 16px;
+$pill: 999px;
+
+:root {
+    --yr-ice: #{$ice};
+    --yr-mint: #{$mint};
+    --yr-teal: #{$teal};
+    --yr-slate: #{$slate};
+    --yr-ink: #{$ink};
+    --yr-page: #{$page};
+    --yr-white: #{$white};
+    --yr-line: #{$line};
+    --yr-radius: #{$radius};
+    --yr-font: #{$font};
+}
