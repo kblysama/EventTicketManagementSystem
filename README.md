@@ -44,10 +44,12 @@ php artisan serve
 Şifrelerin hepsi `password`.
 
 | Rol | E-posta |
-|---|---|
+
 | Admin | ada@example.com |
-| Organizatör | deniz@example.com |
+| Organizer | deniz@example.com |
 | Attendee | ece@example.com |
+| Organizer | kblysama@gmail.com |
+| Attendee | sueglll@outlook.com |
 
 ## API
 
